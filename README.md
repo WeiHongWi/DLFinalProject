@@ -1,4 +1,4 @@
-# Emotion Speech Synthesis Without the reference audio
+# Emotion Speech Synthesis Without the Reference Audio
 
 ## The Author of the Tacotron2 is :
 MIT License
